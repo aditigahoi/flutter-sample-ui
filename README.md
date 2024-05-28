@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![Screenshot of the Application](assets/screenshot.png)
+![Screenshot of the Application](assets/flutter_sample_ui.png)
 
 
